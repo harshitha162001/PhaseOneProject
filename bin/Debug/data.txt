@@ -1,0 +1,7 @@
+100	Rohan	class	class
+1000	name	class	sec
+100	Harshitha	class	sec
+100	Garc	scc	ssll
+100	Ramu	R	R
+100	rraa	maa	ma
+100	Rani	Class	Class

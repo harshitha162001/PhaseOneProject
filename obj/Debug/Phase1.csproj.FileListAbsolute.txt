@@ -1,0 +1,7 @@
+C:\Users\haithal\source\repos\Devre\Devre\bin\Debug\Devre.exe.config
+C:\Users\haithal\source\repos\Devre\Devre\bin\Debug\Devre.exe
+C:\Users\haithal\source\repos\Devre\Devre\bin\Debug\Devre.pdb
+C:\Users\haithal\source\repos\Devre\Devre\obj\Debug\Phase1.csproj.AssemblyReference.cache
+C:\Users\haithal\source\repos\Devre\Devre\obj\Debug\Phase1.csproj.CoreCompileInputs.cache
+C:\Users\haithal\source\repos\Devre\Devre\obj\Debug\Devre.exe
+C:\Users\haithal\source\repos\Devre\Devre\obj\Debug\Devre.pdb
